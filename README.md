@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rogerrabbit-cloud
-- 👀 I’m interested in pragraming and IoT and security.
+- 👀 I’m interested in programing and IoT and security.
 - 🌱 I’m currently learning Mechanical Engineering, coding is interesting to me.
 - 💞️ I’m looking to collaborate on coding and learning more about gitHub.
 - 📫 How to reach me, this is a good platform here, I would say. 
